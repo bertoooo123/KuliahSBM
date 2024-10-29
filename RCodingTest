@@ -8,3 +8,14 @@ print(matrix1)
 print("The second matrix is:")
 print(matrix2)
 
+# Add the matrices
+results <- matrix1 + matrix2
+
+# Subtract the matrices
+result2 <- matrix1 - matrix 2
+
+# Multiply the matrices
+results3 <- matrix1 * matrix 2
+
+# Divide the matrices
+results4 <- matrix1 / matrix 2
