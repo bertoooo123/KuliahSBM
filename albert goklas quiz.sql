@@ -6,7 +6,7 @@ WITH TotalSales AS (
         SUM(bottles_sold) AS TransactionFrequency
     FROM iowa_drink_sales
     GROUP BY item_description
-),
+),sfdfdsfds
 TotalSalesWithShares AS (
     -- Step 2: Calculate share of sales and share of frequency
     SELECT 
